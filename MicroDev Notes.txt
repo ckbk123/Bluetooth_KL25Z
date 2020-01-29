@@ -1,0 +1,3 @@
+Note: RX and TX pin of KL25Z is connected to RX and TX pin of bluetooth module respectively, shit's not inverted as in Arduino
+TX -> J2 20
+RX -> J2 18

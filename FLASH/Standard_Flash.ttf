@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TargetTaskFramework GroupFullPath="Root">
+<Element Type="TargetTask">
+<TargetTask ContextIndex="0" ExecutionContextName="Standard_Flash" ProviderIndex="0" TaskName="Standard_Flash" TaskProvider="Flash Programmer for Kinetis">
+<TaskConfiguration Actions_Count="0" Add_Device_Dialog_Default_Platform="0" Buffer_Address="536866816" Buffer_Size="16384" Flash_Base_Address_0="0" Flash_Device_Name_0="FTFA_PFlash128S1RAM16" Flash_Device_Organization_0="32Kx32x1" Flash_Devices_Count="1" Flash_Top_Address_0="131071" Verify_Memory_Writes="false"/>
+</TargetTask>
+</Element>
+</TargetTaskFramework>
